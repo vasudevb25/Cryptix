@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+}
+nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+}
+.alert {
+  margin-top: 1rem;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+}
+.alert.success { color: green; }
+.alert.danger { color: red; }
